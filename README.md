@@ -4,7 +4,6 @@
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-<p align="left"> <a href="https://twitter.com/biswajit2406" target="blank"><img src="https://img.shields.io/twitter/follow/biswajit2406?logo=twitter&style=for-the-badge" alt="biswajit2406" /></a> </p>
 
 - 🔭 I’m currently working on **an ECommerce Website**
 
