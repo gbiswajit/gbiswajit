@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 
-- 🔭 I’m currently working on **an ECommerce Website**
+- 🔭 I’m currently working on **React Native Projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React Native**
 
 - 🤝 I’m looking for help with **Full Stack Projects**
 
-- 💬 Ask me about **Web Development, Programming**
+- 💬 Ask me about **Web Development, Android Development, Programming**
 
 - 📫 How to reach me **ghoshbiswajit2406@gmail.com**
 
